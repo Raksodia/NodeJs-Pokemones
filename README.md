@@ -4,7 +4,7 @@ Pokemon-NodeJs-API<br><hr>
 Desarrollado en JavaScript<br><hr>
 Consulta Directamente el API de Pokemon<br>
 http://pokeapi.co/
-<br><hr><br>
+<br><hr>
 Archivos<br>
 -- index.html<br>
 	Front End<br>
@@ -18,7 +18,7 @@ Desarrollado en NodeJs<br><hr>
 Desarrollo de Back End - Servidor Node Js - Consulta a API de Pokemon<br>
 http://127.0.0.1:8000/pokemon/{id}<br>
 http://pokeapi.co/
-<br><hr><br>
+<br><hr>
 Archivos<br>
 -- index.html<br>
 		Front End<br>
@@ -30,7 +30,6 @@ Archivos<br>
 <hr>
 Obstaculos<br>
 Cross-origin resource sharing (CORS) <br>
-<br>
 <br>
 Logros<br>
 Instalacion de NodeJs<br>
