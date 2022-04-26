@@ -20,9 +20,9 @@ http://127.0.0.1:8000/pokemon/{id}<br>
 http://pokeapi.co/
 <br><hr>
 Archivos<br>
--- index.html<br>
+-- index1.html<br>
 		Front End<br>
--- process.js<br>
+-- process1.js<br>
 		Servidor Node Js - Consulta a API de Pokemon<br>
 		Manejo de Sessiones en JavaScript<br>
 -- styles.css<br>
